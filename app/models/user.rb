@@ -1,4 +1,3 @@
-
 class User < ApplicationRecord
   PASSWORD_REQUIRMENTS = /\A
   (?=.*\d)           # Must contain a digit
