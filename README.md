@@ -13,17 +13,20 @@ This project is an application similar to Reddit, but a simpler version(called M
 -VScode
 
 ## Getting Started
-Prerequisites
+
+**Prerequisites**
 To get this project up and running locally, you must already have ruby and necessary gems installed on your computer
 
 To get this project set up on your local machine, follow these simple steps:
 
-Open Terminal.
-Navigate to your desired location to download the contents of this repository.
-Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/Active-Record-Micro-Reddit
-Cd Active-Record-Micro-Reddit.
-Run bundle install to get the necesary gems.
-Run rails db:migrate.
+
+**Open Terminal.**
+- Navigate to your desired location to download the contents of this repository.
+- Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/Active-Record-Micro-Reddit
+- Cd Active-Record-Micro-Reddit.
+-Run bundle install to get the necesary gems.
+- Run rails db:migrate.
+
 
 ## Author
 
