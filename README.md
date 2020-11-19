@@ -1,24 +1,43 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Active Records Model of Micro-Reddit
+This project is an application similar to Reddit, but a simpler version(called Micro-Reddit) where a user can create a post and add comments to it.
 
-Things you may want to cover:
+## Built With
+-Ruby 2.7.0
 
-* Ruby version
+-Rails 6.0.3.4
 
-* System dependencies
+-SQLite3
 
-* Configuration
+-VScode
 
-* Database creation
+## Getting Started
+Prerequisites
+To get this project up and running locally, you must already have ruby and necessary gems installed on your computer
 
-* Database initialization
+To get this project set up on your local machine, follow these simple steps:
 
-* How to run the test suite
+Open Terminal.
+Navigate to your desired location to download the contents of this repository.
+Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/Active-Record-Micro-Reddit
+Cd Active-Record-Micro-Reddit.
+Run bundle install to get the necesary gems.
+Run rails db:migrate.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Author
 
-* Deployment instructions
+👤 **Gzim Asani**
+- Github: [@GzimAsani](https://github.com/GzimAsani)
+- Linkedin: [GzimAsani](https://www.linkedin.com/in/gzim-asani-83390a17a/)
 
-* ...
+👤 **Eric Enaburekhan**
+
+- Github: [@enaburekhan](https://github.com/enaburekhan)
+- Twitter: [@enaburekhaneric](https://twitter.com/enaburekhaneric)
+- Linkedin: [@ericenaburekhan](https://www.linkedin.com/in/eric-enaburekhan-801a28100/)
+
+Pls, give us a Star on GitHub — it helps!
+
+memo License
+This project is MIT licensed.
